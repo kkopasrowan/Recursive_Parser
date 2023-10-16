@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+/home/pirate/Programs/SchoolCode/PL_stuff/.metadata/.plugins/org.eclipse.jdt.core
+519306738.index
+67605851.index
+1865797976.index
